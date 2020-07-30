@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const api = {
   //generated using Openweathermap
-  key:"a57feb152ec0a59a586ce1d08ee14dea",
+  key:" ", //get developers api key from Openweathermap.org
   base:"https://api.openweathermap.org/data/2.5/"
 }
 
